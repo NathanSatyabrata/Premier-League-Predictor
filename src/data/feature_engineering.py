@@ -1,8 +1,11 @@
 import pandas as pd
 from data.loader import fetch_fixture_stats
 
-LEAGUE_HOME_GOALS = 1.63
-LEAGUE_AWAY_GOALS = 1.22
+# Match the 2026/27 teams.csv snapshot through 2026-10-10 (56 matches).
+# Follow the Math IA's two-decimal averages; refresh with the team strengths.
+# See README.md for the formulas, source and rounding convention.
+LEAGUE_HOME_GOALS = 1.57
+LEAGUE_AWAY_GOALS = 1.30
 
 def calculate_expected_goals(home_team: dict, away_team: dict) -> tuple[float, float]:
     """

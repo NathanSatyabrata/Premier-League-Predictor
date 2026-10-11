@@ -1,0 +1,193 @@
+{
+  "season": "2026/27",
+  "through_date": "2026-10-10",
+  "source": "https://fixturedownload.com/feed/json/epl-2026",
+  "retrieved_date": "2026-10-11",
+  "completed_matches": 56,
+  "total_home_goals": 88,
+  "total_away_goals": 73,
+  "league_home_average": 1.57,
+  "league_away_average": 1.3,
+  "teams": [
+    {
+      "team": "Arsenal",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 7,
+      "homeGA": 2,
+      "awayGF": 3,
+      "awayGA": 3
+    },
+    {
+      "team": "Aston Villa",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 3,
+      "homeGA": 5,
+      "awayGF": 3,
+      "awayGA": 6
+    },
+    {
+      "team": "Bournemouth",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 3,
+      "homeGA": 4,
+      "awayGF": 4,
+      "awayGA": 9
+    },
+    {
+      "team": "Brentford",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 7,
+      "homeGA": 1,
+      "awayGF": 5,
+      "awayGA": 5
+    },
+    {
+      "team": "Brighton",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 8,
+      "homeGA": 1,
+      "awayGF": 10,
+      "awayGA": 4
+    },
+    {
+      "team": "Chelsea",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 11,
+      "homeGA": 6,
+      "awayGF": 4,
+      "awayGA": 7
+    },
+    {
+      "team": "Coventry City",
+      "homePlayed": 2,
+      "awayPlayed": 3,
+      "homeGF": 0,
+      "homeGA": 6,
+      "awayGF": 1,
+      "awayGA": 4
+    },
+    {
+      "team": "Crystal Palace",
+      "homePlayed": 2,
+      "awayPlayed": 3,
+      "homeGF": 3,
+      "homeGA": 7,
+      "awayGF": 3,
+      "awayGA": 4
+    },
+    {
+      "team": "Everton",
+      "homePlayed": 3,
+      "awayPlayed": 2,
+      "homeGF": 5,
+      "homeGA": 2,
+      "awayGF": 1,
+      "awayGA": 1
+    },
+    {
+      "team": "Fulham",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 5,
+      "homeGA": 7,
+      "awayGF": 1,
+      "awayGA": 3
+    },
+    {
+      "team": "Hull City",
+      "homePlayed": 2,
+      "awayPlayed": 3,
+      "homeGF": 2,
+      "homeGA": 0,
+      "awayGF": 4,
+      "awayGA": 4
+    },
+    {
+      "team": "Ipswich Town",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 4,
+      "homeGA": 4,
+      "awayGF": 5,
+      "awayGA": 8
+    },
+    {
+      "team": "Leeds United",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 5,
+      "homeGA": 2,
+      "awayGF": 3,
+      "awayGA": 3
+    },
+    {
+      "team": "Liverpool",
+      "homePlayed": 2,
+      "awayPlayed": 3,
+      "homeGF": 2,
+      "homeGA": 2,
+      "awayGF": 5,
+      "awayGA": 2
+    },
+    {
+      "team": "Man City",
+      "homePlayed": 3,
+      "awayPlayed": 2,
+      "homeGF": 8,
+      "homeGA": 4,
+      "awayGF": 5,
+      "awayGA": 1
+    },
+    {
+      "team": "Man Utd",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 6,
+      "homeGA": 4,
+      "awayGF": 3,
+      "awayGA": 5
+    },
+    {
+      "team": "Newcastle Utd",
+      "homePlayed": 3,
+      "awayPlayed": 2,
+      "homeGF": 6,
+      "homeGA": 5,
+      "awayGF": 3,
+      "awayGA": 4
+    },
+    {
+      "team": "Nottingham",
+      "homePlayed": 3,
+      "awayPlayed": 2,
+      "homeGF": 0,
+      "homeGA": 2,
+      "awayGF": 4,
+      "awayGA": 3
+    },
+    {
+      "team": "Sunderland",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 1,
+      "homeGA": 4,
+      "awayGF": 5,
+      "awayGA": 8
+    },
+    {
+      "team": "Tottenham",
+      "homePlayed": 3,
+      "awayPlayed": 3,
+      "homeGF": 2,
+      "homeGA": 5,
+      "awayGF": 1,
+      "awayGA": 4
+    }
+  ]
+}
