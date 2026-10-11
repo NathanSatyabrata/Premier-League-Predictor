@@ -1,3 +1,4 @@
+# Python and virtual environments
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -218,3 +219,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Local datasets and generated artifacts
+**/data/raw/
+**/data/processed/
+/models/
+/artifacts/
+/outputs/
+/results/
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+tempCodeRunnerFile.py
