@@ -8,8 +8,6 @@ The current snapshot covers the **2026/27 Premier League season**, using **56 co
 
 For each team, the calculation records home and away matches played, goals scored, and goals conceded. Each team has played two or three matches at each venue. Averages therefore use the team's actual match count, rather than 19 matches or the total number of home and away games combined.
 
-Only this season's Premier League results are included. Promoted clubs already have observations from the same league, so the paper's Championship adjustment is unnecessary. The paper's hypothetical Mac Allister transfer adjustment is also omitted because the observations reflect the current squads' actual performances.
-
 The counts and source details are stored in [team_strength_inputs.json](data/team_strength_inputs.json). This is a fixed snapshot, not a live data feed.
 
 ## League scoring averages
