@@ -2,8 +2,6 @@
 
 The predictor estimates each team's attacking and defensive performance separately at home and away. These four ratings describe goals scored or conceded relative to the Premier League average. They provide the scoring rates used by the Poisson match model.
 
-The underlying ratios follow sections 4 and 6 of Nathan Satyabrata's Math IA, *Will the signing of Alexis Mac Allister help Liverpool win the 2023-24 Premier League?* The current implementation uses this season's results and adds smoothing to reduce the effect of having played only a few matches. Smoothing is an extension to the paper's original method.
-
 ## Data and scope
 
 The current snapshot covers the **2026/27 Premier League season**, using **56 completed matches through 10 October 2026**. Results were retrieved on 11 October from [Fixture Download](https://fixturedownload.com/results/epl-2026), using its [JSON feed](https://fixturedownload.com/feed/json/epl-2026). Fixtures without both scores and matches on or after 11 October are excluded.
