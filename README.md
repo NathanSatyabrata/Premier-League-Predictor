@@ -6,9 +6,7 @@ current-season data, smoothing, worked example, and model limitations.
 
 ## Team strength snapshot
 
-Method: Nathan Satyabrata's Math IA, *Will the signing of Alexis Mac Allister
-help Liverpool win the 2023-24 Premier League?*, sections 4 and 6 (printed
-pages 3-4 and 8-9). The original committed CSV matches the paper's Table 5.
+The original committed CSV matches the paper's Table 5.
 The current snapshot applies those formulas to this season's results, with
 league-average smoothing added to all four strengths for every team.
 
